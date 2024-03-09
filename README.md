@@ -9,7 +9,6 @@ Welcome to Prithfolio, your gateway to exploring the diverse skills, projects, a
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-- [Experience](#experience)
 - [Education](#education)
 - [Contact](#contact)
 
