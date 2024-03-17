@@ -38,13 +38,17 @@ Explore a comprehensive list of skills that I possess. From technical expertise 
 
 Gain insights into my professional journey through the projects I've worked on. Explore the challenges faced, solutions implemented, and the impact created. Each project serves as a milestone in my career, showcasing my skills and expertise in action.
 
-- [**Myrtle**](https://myrtle-eta.vercel.app/)
-  - September 2023 - Present
-  - "Myrtle," an advanced online platform by team QuantumFrost for SIH, facilitates accurate identification of medicinal plants and raw materials. The project utilizes cutting-edge image processing and machine learning algorithms to provide insightful information about botanical resources. Addressing the challenge in Ayurvedic Pharmaceutics, Myrtle contributes to the identification of India's rich medicinal plant wealth. Recognizing the country's floral diversity, the platform aims to enhance accessibility and knowledge about valuable botanical resources.
-
+- [**Mirofy**](https://mirofy.vercel.app/)
+  - February 2024 - March 2024
+  - Mirofy is a real-time collaborative whiteboard app for seamless teamwork and idea visualization. It offers drawing tools, layering, real-time collaboration, and authentication. Built on Next.js with TailwindCSS & ShadcnUI styling for high performance and a sleek interface.
+  
 - [**Spotify Clone**](https://spotify-clone-black-theta.vercel.app/)
   - January 2024 - February 2024
   - Spearheaded the development of a Spotify Clone project, leveraging Next.js, React, and Supabase to create a seamless music streaming experience. Implemented the capability for users to upload their local music library, enhancing accessibility and expanding the platform's content offerings. Designed and integrated custom toast messages to provide informative and engaging feedback, ensuring a personalized and enjoyable user experience. Demonstrated proficiency in full-stack web development, utilizing frontend technologies for dynamic UI and backend technologies for secure and efficient data management.
+
+- [**Myrtle**](https://myrtle-eta.vercel.app/)
+  - September 2023 - Present
+  - "Myrtle," an advanced online platform by team QuantumFrost for SIH, facilitates accurate identification of medicinal plants and raw materials. The project utilizes cutting-edge image processing and machine learning algorithms to provide insightful information about botanical resources. Addressing the challenge in Ayurvedic Pharmaceutics, Myrtle contributes to the identification of India's rich medicinal plant wealth. Recognizing the country's floral diversity, the platform aims to enhance accessibility and knowledge about valuable botanical resources.
 
 ### Education
 
