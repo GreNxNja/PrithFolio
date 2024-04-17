@@ -1,4 +1,4 @@
-## Prithfolio - Portfolio Website
+## Prithfolio 
 
 ### Overview
 
