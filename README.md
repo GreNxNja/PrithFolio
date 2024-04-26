@@ -56,7 +56,7 @@ Gain insights into my professional journey through the projects I've worked on. 
 
   - January 2024 - February 2024
 
-  - Spearheaded the development of a Spotify Clone project, leveraging Next.js, React, and Supabase to create a seamless music streaming experience. Implemented the capability for users to upload their local music library, enhancing accessibility and expanding the platform's content offerings. Designed and integrated custom toast messages to provide informative and engaging feedback, ensuring a personalized and enjoyable user experience. Demonstrated proficiency in full-stack web development, utilizing frontend technologies for dynamic UI and backend technologies for secure and efficient data management.
+  - Experience seamless music streaming through a meticulously crafted full-stack web app, powered by Next.js, React, and Supabase. Enjoy Spotify's iconic features in a polished interface styled with Tailwind CSS. Contribute, explore the repository, and stay tuned for updates.
 
 - [**Myrtle**](https://myrtle-eta.vercel.app/)
 
