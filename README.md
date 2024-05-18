@@ -40,7 +40,7 @@ Gain insights into my professional journey through the projects I've worked on. 
 
 # Portfolio
 
-- [**Zoomer**](https://zoomer-phi.vercel.app/)
+- [**Meetopia**](https://zoomer-phi.vercel.app/)
 
   - March 2024 - March 2024
 
