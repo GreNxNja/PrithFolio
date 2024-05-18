@@ -75,36 +75,54 @@ export const projects = [
     title: "Meetopia",
     des:
       "Meetopia is a professional video conferencing app for enterprises, built with Next.js 14, Stream, and Tailwind CSS.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    img: "/Meetopia.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://meetopia.vercel.app/",
   },
   {
     id: 2,
     title: "Mirofy ",
     des:
       "Mirofy is a real-time collaborative whiteboard app for seamless teamwork and idea visualization",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    img: "/Mirofy.png",
+    iconLists: [
+      "/next.svg",
+      "/re.svg",
+      "/tail.svg",
+      "/convex.svg",
+      "/Liveblocks.png",
+    ],
+    link: "https://mirofy.vercel.app/",
   },
   {
     id: 3,
     title: "Bragr",
     des:
       "Experience seamless music streaming through a meticulously crafted full-stack web app",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    img: "/Spotify.png",
+    iconLists: [
+      "/next.svg",
+      "/re.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/supabase.png",
+    ],
+    link: "https://bragr.vercel.app/.com",
   },
   {
     id: 4,
     title: "Myrtle",
     des:
       "Myrtle, an advanced online platform by team QuantumFrost for SIH, facilitates accurate identification of medicinal plants and raw materials..js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    img: "/Myrtle.png",
+    iconLists: [
+      "/html-5.png",
+      "/css-3.png",
+      "/js.png",
+      "/python.png",
+      "/supabase.png",
+    ],
+    link: "https://myrtle-eta.vercel.app/",
   },
 ];
 
@@ -213,13 +231,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/GreNxNja",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://twitter.com/PRITHWIJITGHOS4",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/greninja/",
   },
 ];
