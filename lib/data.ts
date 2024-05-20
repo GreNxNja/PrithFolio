@@ -1,7 +1,5 @@
 import React from "react";
-
-import { FaBuilding, FaReact, FaRobot } from "react-icons/fa";
-
+import { FaBuilding, FaRobot } from "react-icons/fa";
 import MeetopiaImg from "@/public/Meetopia.png";
 import MirofyImg from "@/public/Mirofy.png";
 import MyrtleImg from "@/public/Myrtle.png";
