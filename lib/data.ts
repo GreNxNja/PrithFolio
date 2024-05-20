@@ -1,10 +1,11 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+
+import { FaBuilding, FaReact, FaRobot } from "react-icons/fa";
+
+import MeetopiaImg from "@/public/Meetopia.png";
+import MirofyImg from "@/public/Mirofy.png";
+import MyrtleImg from "@/public/Myrtle.png";
+import SpotifyImg from "@/public/Spotify.png";
 
 export const links = [
   {
@@ -35,73 +36,75 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Team Leader in SIH - Smart India Hackathon",
+    location: "India",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
+      "In 2023, I participated in the prestigious Smart India Hackathon as the team leader. Under my leadership, our team tackled a complex problem statement, developing an innovative solution that advanced us to the semi-finals. This experience honed my skills in project management, team collaboration, and creative problem-solving.",
+    icon: React.createElement(FaBuilding),
+    date: "2023",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Co-Leading in AI Unite Hackathon",
+    location: "India",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
-  },
-  {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
-    description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "Currently, I am actively participating as a co-leader in the ongoing AI Unite Hackathon in India. Collaborating closely with my team, we are developing innovative solutions using artificial intelligence to tackle complex challenges. This experience is enhancing my leadership, teamwork, and problem-solving skills while allowing me to contribute to cutting-edge projects.",
+    icon: React.createElement(FaRobot),
+    date: "2024",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Meetopia",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Meetopia is a professional video conferencing app for enterprises.",
+    tags: ["React", "Next.js", "Stream", "Tailwind", "Clerk"],
+    imageUrl: MeetopiaImg,
   },
   {
-    title: "rmtDev",
+    title: "Mirofy",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "Mirofy is a real-time collaborative whiteboard app for seamless teamwork and idea visualization.",
+    tags: [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Tailwind",
+      "Clerk",
+      "Convex",
+      "LiveBlocks",
+    ],
+    imageUrl: MirofyImg,
   },
   {
-    title: "Word Analytics",
+    title: "Bragr",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "Experience seamless music streaming through a meticulously crafted full-stack web app",
+    tags: ["React", "Next.js", "Supabase", "Tailwind"],
+    imageUrl: SpotifyImg,
+  },
+  {
+    title: "Myrtle",
+    description:
+      "Myrtle,an advanced online platform by team QuantumFrost for SIH, facilitates accurate identification of medicinal plants and raw materials.",
+    tags: ["HTML-5", "CSS-3", , "Express", "Supabase", "Blockchain"],
+    imageUrl: MyrtleImg,
   },
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
+  "HTML5",
+  "CSS3",
+  "JavaScript (Node.js)",
   "TypeScript",
   "React",
   "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
+  "Git & GitHub",
+  "Tailwind CSS",
   "Prisma",
   "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
   "PostgreSQL",
   "Python",
-  "Django",
+  "Figma",
   "Framer Motion",
 ] as const;

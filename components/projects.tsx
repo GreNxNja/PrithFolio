@@ -9,6 +9,14 @@ import { useSectionInView } from "@/lib/hooks";
 export default function Projects() {
   const { ref } = useSectionInView("Projects", 0.5);
 
+  function setActiveSection(arg0: string) {
+    throw new Error("Function not implemented.");
+  }
+
+  function setTimeOfLastClick(arg0: number) {
+    throw new Error("Function not implemented.");
+  }
+
   return (
     <section ref={ref} id="projects" className="scroll-mt-28 mb-28">
       <SectionHeading>My projects</SectionHeading>
