@@ -1,30 +1,21 @@
-"use client";
+import About from "@/components/about";
+import Contact from "@/components/contact";
+import Experience from "@/components/experience";
+import Intro from "@/components/intro";
+import Projects from "@/components/projects";
+import SectionDivider from "@/components/section-divider";
+import Skills from "@/components/skills";
 
-import { navItems } from "@/data";
-import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import Hero from "@/components/Hero";
-import Grid from "@/components/Grid";
-import Footer from "@/components/Footer";
-import Clients from "@/components/Clients";
-import Approach from "@/components/Approach";
-import Experience from "@/components/Experience";
-import RecentProjects from "@/components/RecentProjects";
-
-const Home = () => {
+export default function Home() {
   return (
-    <main className="relative bg-black-100 flex justify-center items-center flex-col overflow-hidden mx-auto sm:px-10 px-5">
-      <div className="max-w-7xl w-full">
-        <FloatingNav navItems={navItems} />
-        <Hero />
-        <Grid />
-        <RecentProjects />
-        <Clients />
-        <Experience />
-        <Approach />
-        <Footer />
-      </div>
+    <main className="flex flex-col items-center px-4">
+      <Intro />
+      <SectionDivider />
+      <About />
+      <Projects />
+      <Skills />
+      <Experience />
+      <Contact />
     </main>
   );
-};
-
-export default Home;
+}
