@@ -19,14 +19,13 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Dedicated full-stack developer with a unique blend of technical
-        expertise and creative flair, driven by a passion for music. Seamlessly
-        merging technology and artistry, I craft immersive and user-centric
-        experiences. Proficient in full-stack development and storytelling, I
-        thrive in dynamic environments, contributing technical skills to build
-        robust applications. Eager to collaborate on projects challenging the
-        status quo, pushing the boundaries of what technology can achieve. My
-        core stack includes{" "}
+        Full-stack developer with a unique blend of technical expertise and
+        creative flair, driven by a passion for music. I seamlessly merge
+        technology and artistry to craft immersive, user-centric experiences.
+        Proficient in full-stack development and storytelling, I thrive in
+        dynamic environments, contributing to robust applications. Eager to
+        collaborate on innovative projects that push technological boundaries.
+        Core stack includes:{" "}
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
