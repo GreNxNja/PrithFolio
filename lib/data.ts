@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "Co-Leading in AI Unite Hackathon",
     location: "India",
     description:
-      "Currently, I am actively participating as a co-leader in the ongoing AI Unite Hackathon in India. Collaborating closely with my team, we are developing innovative solutions using artificial intelligence to tackle complex challenges. This experience is enhancing my leadership, teamwork, and problem-solving skills while allowing me to contribute to cutting-edge projects.",
+      "I recently co-led my team of two to victory in the AI Unite Hackathon 2024, organized by Techno India University on the topic of education. Collaborating closely with my teammate, we developed innovative AI-driven solutions to tackle complex challenges in the education sector. This experience significantly enhanced my leadership, teamwork, and problem-solving skills while allowing me to contribute to cutting-edge projects.",
     icon: React.createElement(FaRobot),
     date: "2024",
   },
