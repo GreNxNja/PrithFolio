@@ -1,5 +1,5 @@
 import React from "react";
-import { FaBuilding, FaLeaf, FaRobot, FaServer } from "react-icons/fa";
+import { FaBookmark, FaBuilding, FaLeaf, FaRobot, FaServer } from "react-icons/fa";
 import MeetopiaImg from "@/public/Meetopia.png";
 import MirofyImg from "@/public/Mirofy.png";
 import MyrtleImg from "@/public/Myrtle.png";
@@ -48,7 +48,7 @@ export const experiencesData = [
     location: "India",
     description:
       "In 2024, I co-led my team to victory in the AI Unite Hackathon at Techno India University, focusing on the transformative potential of smart education technology. Our innovative solution was a comprehensive AI-powered dashboard that revolutionized student productivity and learning management. We created an all-in-one platform that integrated multiple essential features—including a collaborative meeting space, interactive whiteboard, synchronized calendar, and intelligent task management system—eliminating the need for students to navigate between multiple disparate applications.Our AI-driven dashboard streamlined the educational experience by providing a unified environment where students could seamlessly track assignments, schedule meetings, collaborate in real-time, and manage their academic responsibilities. By consolidating these critical tools into a single, intuitive interface, we addressed the fragmentation that often challenges student workflow and productivity. ",
-    icon: React.createElement(FaRobot),
+    icon: React.createElement(FaBookmark),
     date: "2024",
   },
   {
