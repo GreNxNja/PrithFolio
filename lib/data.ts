@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Team Leader in SIH - Smart India Hackathon",
     location: "India",
     description:
-      "In 2023, I participated in the prestigious Smart India Hackathon as the team leader, focusing on a critical challenge in agricultural technology: plant and raw material identification. Our team developed an innovative AI model trained using comprehensive Kaggle datasets, enabling real-time plant and raw material recognition. By leveraging machine learning techniques, we created a solution that could instantly identify and classify various agricultural specimens with high accuracy. This semi-finalist project not only showcased our technical prowess but also significantly enhanced my skills in project management, team collaboration, and creative problem-solving within the agricultural technology domain.",
+      "In 2023, I participated in the prestigious Smart India Hackathon as the team leader, focusing on a critical challenge in agricultural technology: plant and raw material identification. Our team developed an innovative AI model trained using comprehensive Kaggle datasets, enabling real-time plant and raw material recognition. By leveraging machine learning techniques, we created a solution that could instantly identify and classify various agricultural specimens with high accuracy. ",
     icon: React.createElement(FaBuilding),
     date: "2023",
   },
@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Co-Lead in AI Unite Hackathon",
     location: "India",
     description:
-      "In 2024, I co-led my team to victory in the AI Unite Hackathon at Techno India University, focusing on the transformative potential of smart education technology. Our innovative solution was a comprehensive AI-powered dashboard that revolutionized student productivity and learning management. We created an all-in-one platform that integrated multiple essential features—including a collaborative meeting space, interactive whiteboard, synchronized calendar, and intelligent task management system—eliminating the need for students to navigate between multiple disparate applications.Our AI-driven dashboard streamlined the educational experience by providing a unified environment where students could seamlessly track assignments, schedule meetings, collaborate in real-time, and manage their academic responsibilities. By consolidating these critical tools into a single, intuitive interface, we addressed the fragmentation that often challenges student workflow and productivity. This hackathon project not only demonstrated our technical capabilities but also significantly enhanced my skills in leadership, teamwork, and innovative problem-solving within the educational technology landscape.",
+      "In 2024, I co-led my team to victory in the AI Unite Hackathon at Techno India University, focusing on the transformative potential of smart education technology. Our innovative solution was a comprehensive AI-powered dashboard that revolutionized student productivity and learning management. We created an all-in-one platform that integrated multiple essential features—including a collaborative meeting space, interactive whiteboard, synchronized calendar, and intelligent task management system—eliminating the need for students to navigate between multiple disparate applications.Our AI-driven dashboard streamlined the educational experience by providing a unified environment where students could seamlessly track assignments, schedule meetings, collaborate in real-time, and manage their academic responsibilities. By consolidating these critical tools into a single, intuitive interface, we addressed the fragmentation that often challenges student workflow and productivity. ",
     icon: React.createElement(FaRobot),
     date: "2024",
   },
@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "Co-Lead in Hack-Ai-Thon",
     location: "India",
     description:
-      "In the Hack-Ai-Thon 2024 hosted by State Bank of India, I am co-leading a team focused on developing an innovative AI-driven fraud detection system for the insurance sector. Our project aims to leverage advanced machine learning techniques to identify and prevent fraudulent insurance claims, showcasing our ability to apply cutting-edge AI solutions to critical financial challenges. This hackathon experience has been instrumental in enhancing my leadership, teamwork, and problem-solving skills while contributing to a potentially transformative technological innovation in the insurance industry..",
+      "In the Hack-Ai-Thon 2024 hosted by State Bank of India, I am co-leading a team focused on developing an innovative AI-driven fraud detection system for the insurance sector. Our project aims to leverage advanced machine learning techniques to identify and prevent fraudulent insurance claims, showcasing our ability to apply cutting-edge AI solutions to critical financial challenges. ",
     icon: React.createElement(FaRobot),
     date: "2024",
   },
