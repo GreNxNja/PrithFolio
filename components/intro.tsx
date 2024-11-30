@@ -64,8 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Prithwijit,</span> a{" "}
         <span className="font-bold">full-stack developer</span>. I enjoy
-        building <span className="font-bold">apps which run on cloud</span>. My
-        focus is <span className="underline">Next.js</span>.
+        building <span className="font-bold">apps which run on cloud</span>.
       </motion.h1>
 
       <motion.div
@@ -90,7 +89,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Resume Prithwijit Ghosh.pdf"
+          href="/Prithwijit Resume.pdf"
           download
         >
           Download CV{" "}
