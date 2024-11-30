@@ -1,5 +1,5 @@
 import React from "react";
-import { FaBuilding, FaRobot } from "react-icons/fa";
+import { FaBuilding, FaRobot, FaServer } from "react-icons/fa";
 import MeetopiaImg from "@/public/Meetopia.png";
 import MirofyImg from "@/public/Mirofy.png";
 import MyrtleImg from "@/public/Myrtle.png";
@@ -56,7 +56,7 @@ export const experiencesData = [
     location: "India",
     description:
       "In the Hack-Ai-Thon 2024 hosted by State Bank of India, I am co-leading a team focused on developing an innovative AI-driven fraud detection system for the insurance sector. Our project aims to leverage advanced machine learning techniques to identify and prevent fraudulent insurance claims, showcasing our ability to apply cutting-edge AI solutions to critical financial challenges. ",
-    icon: React.createElement(FaRobot),
+    icon: React.createElement(FaServer),
     date: "2024",
   },
 ] as const;
