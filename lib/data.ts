@@ -1,5 +1,5 @@
 import React from "react";
-import { FaBuilding, FaRobot, FaServer } from "react-icons/fa";
+import { FaBuilding, FaLeaf, FaRobot, FaServer } from "react-icons/fa";
 import MeetopiaImg from "@/public/Meetopia.png";
 import MirofyImg from "@/public/Mirofy.png";
 import MyrtleImg from "@/public/Myrtle.png";
@@ -40,7 +40,7 @@ export const experiencesData = [
     location: "India",
     description:
       "In 2023, I participated in the prestigious Smart India Hackathon as the team leader, focusing on a critical challenge in agricultural technology: plant and raw material identification. Our team developed an innovative AI model trained using comprehensive Kaggle datasets, enabling real-time plant and raw material recognition. By leveraging machine learning techniques, we created a solution that could instantly identify and classify various agricultural specimens with high accuracy. ",
-    icon: React.createElement(FaBuilding),
+    icon: React.createElement(FaLeaf),
     date: "2023",
   },
   {
