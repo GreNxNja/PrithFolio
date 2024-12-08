@@ -1,11 +1,17 @@
 import React from "react";
-import { FaBookmark, FaBuilding, FaLeaf, FaRobot, FaServer } from "react-icons/fa";
+import {
+  FaBookmark,
+  FaBuilding,
+  FaLeaf,
+  FaRobot,
+  FaServer,
+} from "react-icons/fa";
 import MeetopiaImg from "@/public/Meetopia.png";
 import MirofyImg from "@/public/Mirofy.png";
 import MyrtleImg from "@/public/Myrtle.png";
 import SpotifyImg from "@/public/Spotify.png";
 import LunaImg from "@/public/Luna.jpg";
-import NextReadImg from "@/public/NextRead.jpg"
+import NextReadImg from "@/public/NextRead.jpg";
 
 export const links = [
   {
@@ -72,7 +78,7 @@ export const projectsData = [
   {
     title: "Luna",
     description:
-      "Meetopia is a professional video conferencing app for enterprises.",
+      "Luna - Advanced image enhancement system for analyzing shadowed lunar crater regions captured by Chandrayaan-2.",
     tags: ["Image Processing", "Machine Learning", "Python", "CUDA", "Git"],
     imageUrl: LunaImg,
   },
