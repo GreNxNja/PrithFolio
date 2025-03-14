@@ -8,7 +8,7 @@ export default function Footer() {
       </small>
       <p className="text-xs">
         <span className="font-semibold">About this website:</span> built with
-        Next.js, Sweat and Metal{" "}
+        Next.js, confusion and caffeine.{" "}
         <span role="img" aria-label="Indian flag">
           &#x1F1EE;&#x1F1F3;
         </span>
