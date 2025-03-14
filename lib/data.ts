@@ -12,7 +12,7 @@ import MyrtleImg from "@/public/Myrtle.png";
 import SpotifyImg from "@/public/Spotify.png";
 import LunaImg from "@/public/Luna.jpg";
 import NextReadImg from "@/public/NextRead.jpg";
-
+import GeoVisionImg from "@/public/Geo.jpg";
 export const links = [
   {
     name: "Home",
@@ -68,6 +68,20 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "GeoVision Ai",
+    description:
+      "GeoVisionAI generates smooth, AI-interpolated videos from satellite WMS imagery, displayed on interactive web maps",
+    tags: [
+      "Python",
+      "TensorFlow/PyTorch",
+      "OpenLayers/Leaflet",
+      "FFmpeg",
+      "CUDA",
+    ],
+    imageUrl: GeoVisionImg,
+  },
+
   {
     title: "NextRead",
     description:
